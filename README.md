@@ -26,7 +26,7 @@ https://testnet.shidoscan.com/contract/0x539Ab53B7414809bDF652099098f0798E625c48
 
 https://testnet.shidoscan.com/contract/0xc73504f6C3248740eFB13625b337A5bc9269a75f
 
-**Technologies I used**
+## Technologies I used
 
 Thirdweb Unity SDK
 
