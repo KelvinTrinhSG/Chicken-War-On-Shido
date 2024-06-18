@@ -33,9 +33,3 @@ Thirdweb Unity SDK
 Thirdweb OpenEditionERC721 Smart Contract
 
 Thirdweb Token Drop Smart ERC20 Contract
-
-## Reference Link:
-
-https://eips.ethereum.org/EIPS/eip-4337
-
-https://github.com/eth-infinitism/account-abstraction
